@@ -1,0 +1,3 @@
+Added WebSocket ping/pong for connection health
+simulated environment 
+paper trading if possible
